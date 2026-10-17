@@ -4,6 +4,7 @@ clock = pygame.time.Clock()
 window = pygame.display.set_mode((500, 500))
 col = (232, 246, 250)
 window.fill(col)
+#Привет от 17.10.2026
 class Area():
     def __init__(self, col, width, length, x, y):
         self.col = col
